@@ -1,0 +1,23 @@
+img{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+#img2{
+    position: relative;
+
+}
+
+ul{
+    display: inline-block;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+p{
+    text-align: justify;
+}
